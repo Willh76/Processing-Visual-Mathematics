@@ -25,3 +25,14 @@ A harmonograph is a mechanical device designed to create geometric patterns. The
 The harmonograph typically consists of two or more pendulums connected to a drawing arm or a pen that traces patterns onto a surface, such as paper. The pendulums move in perpendicular directions or rotate at varying speeds, creating overlapping motions.
 
 ![image](https://github.com/user-attachments/assets/4ad10cca-19a0-46b5-b52f-e0c0475da203)
+
+# Complex Sets
+## Mandelbrot
+
+![image](https://github.com/user-attachments/assets/80728009-f5df-47a8-bc06-1c3f222ce3b6)
+
+## Julia
+
+![image](https://github.com/user-attachments/assets/dee5a627-bf90-4e65-99ae-e313350ad711)
+
+![image](https://github.com/user-attachments/assets/f9384039-cefa-4fab-8772-0747dc8bfd71)
